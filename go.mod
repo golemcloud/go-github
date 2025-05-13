@@ -1,4 +1,4 @@
-module github.com/golem-cloud/go-github/v72
+module github.com/golemcloud/go-github/v72
 
 go 1.23.0
 
